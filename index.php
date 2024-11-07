@@ -9,7 +9,7 @@
         html, body {
             margin: 0;
             padding: 0;
-            height: 100%;
+            height: 50%;
             overflow: hidden; /* Prevents scrolling */
         }
 
@@ -22,7 +22,7 @@
 
         img {
             width: 100%;
-            height: 50%;
+            height: 100%;
             object-fit: cover; /* Ensures the image covers the entire screen */
         }
     </style>

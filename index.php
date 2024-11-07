@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            width: 100vh;
+            
             overflow: auto;
             display: flex;
             align-items: center;
@@ -17,7 +17,7 @@
         }
 
         img {
-            max-width: auto;
+            max-width: 200%;
             height: auto;
         }
     </style>

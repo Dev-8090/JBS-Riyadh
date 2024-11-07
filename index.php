@@ -15,7 +15,11 @@
             align-items: center;
             justify-content: center;
         }
+        img {
+            max-width: 300%;
+            height: auto;
 
+        }
 
     </style>
 </head>

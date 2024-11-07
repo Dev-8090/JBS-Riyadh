@@ -17,11 +17,11 @@
         }
 
         img {
-            max-width: 100%; /* Ensure the image doesn't exceed the width of the viewport */
-            max-height: 100vh; /* Ensure the image doesn't exceed the height of the viewport */
-            object-fit: contain; /* Ensures the image fits within the screen without being clipped */
+            width: 100%;  /* Ensures the image covers the full width of the viewport */
+            height: 100%; /* Ensures the image covers the full height of the viewport */
+            object-fit: cover; /* Ensures the image covers the entire screen area without being distorted */
         }
- </style>       
+    </style>  
 </head>
 <body>
     <img src="riyadh.png" alt="JBSCo Comming Soon">

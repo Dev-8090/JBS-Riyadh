@@ -16,7 +16,7 @@
         }
 
         img {
-            max-width: 100%;
+            max-width: auto;
             height: 100%;
             
             object-fit: cover;

@@ -5,23 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JBS Consulting</title>
     <style>
-        body {
+        /* Ensures the body and html take up the full height of the screen */
+        html, body {
             margin: 0;
             padding: 0;
-            height: 100vh;
-            overflow: hidden;
+            height: 100%;
+            overflow: hidden; /* Prevents scrolling */
+        }
+
+        body {
             display: flex;
-            align-items: center;
             justify-content: center;
+            align-items: center;
             background-color: #000;
         }
 
         img {
-            width: 100%;  /* Ensures the image covers the full width of the viewport */
-            height: 100%; /* Ensures the image covers the full height of the viewport */
-            object-fit: cover; /* Ensures the image covers the entire screen area without being distorted */
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures the image covers the entire screen */
         }
-    </style>  
+    </style>
 </head>
 <body>
     <img src="riyadh.png" alt="JBSCo Comming Soon">

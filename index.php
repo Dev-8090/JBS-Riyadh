@@ -6,7 +6,7 @@
     <title>JBS Consulting</title>
       <style>
         body {
-            margin: 0;
+            margin: -50px;
             padding: 0;
             height: 100vh;
             
@@ -19,8 +19,7 @@
         img {
             max-width: 100%;
             height: 100%;
-             object-fit: cover; /* Fills the entire screen, cropping the image if necessary */
-            object-position: center; /* Ensures the image is centered */
+
         }
     </style>
 </head>

@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            background-color: #14345c;
+            background-color: #1b3555;
             overflow: auto;
             display: flex;
             align-items: center;

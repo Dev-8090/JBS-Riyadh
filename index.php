@@ -4,26 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JBS Consulting</title>
-    <style>
-        /* Ensures the body and html take up the full height of the screen */
-        html, body {
+      <style>
+        body {
             margin: 0;
             padding: 0;
-            height: 100%;
-            overflow: hidden; /* Prevents scrolling */
-        }
-
-        body {
+            height: 100vh;
+            overflow: auto;
             display: flex;
-            justify-content: center;
             align-items: center;
-            background-color: #000;
+            justify-content: center;
         }
 
         img {
-            width: 100%;
+            max-width: auto;
             height: 100%;
-            object-fit: cover; /* Ensures the image covers the entire screen */
+            
         }
     </style>
 </head>

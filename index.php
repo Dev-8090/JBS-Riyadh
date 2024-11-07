@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            
+            <body style="background-color:#0d407f;">
             overflow: auto;
             display: flex;
             align-items: center;

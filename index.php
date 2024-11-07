@@ -16,10 +16,10 @@
         }
 
         img {
-            max-width: auto;
+            max-width: 100%;
             height: 100%;
-            
-            object-fit: cover;
+            object-position: center;
+            object-fit: contain;
         }
     </style>
 </head>

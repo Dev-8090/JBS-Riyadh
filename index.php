@@ -22,7 +22,7 @@
 
         img {
             width: 100%;
-            height: 100%;
+            height: 50%;
             object-fit: cover; /* Ensures the image covers the entire screen */
         }
     </style>

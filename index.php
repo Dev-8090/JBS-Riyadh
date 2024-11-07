@@ -8,7 +8,7 @@
         body {
             margin: 0;
             padding: 0;
-            height: 50vh;
+            height: 100vh;
             overflow: auto;
             display: flex;
             align-items: center;

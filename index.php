@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            background-color: #03163e;
+            
             overflow: auto;
             display: flex;
             align-items: center;
@@ -17,12 +17,12 @@
         }
 
         img {
-            max-width: 200%;
+            max-width: 100%;
             height: auto;
         }
     </style>
 </head>
 <body>
-    <img src="jbs.jpg" alt="JBSCo Comming Soon">
+    <img src="jbsr.jpg" alt="JBSCo Comming Soon">
 </body>
 </html>

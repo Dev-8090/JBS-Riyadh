@@ -28,6 +28,6 @@
     </style>
 </head>
 <body>
-    <img src="riyadh.png" alt="JBSCo Comming Soon">
+    <img src="riyadh.jpg" alt="JBSCo Comming Soon">
 </body>
 </html>

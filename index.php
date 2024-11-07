@@ -22,6 +22,6 @@
     </style>
 </head>
 <body>
-    <img src="Home.jpg" alt="JBSCo Comming Soon">
+    <img src="riyadh.png" alt="JBSCo Comming Soon">
 </body>
 </html>

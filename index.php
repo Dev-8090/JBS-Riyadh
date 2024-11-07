@@ -17,8 +17,8 @@
         }
 
         img {
-            max-width: 100%;
-            height: auto;
+            max-width: auto;
+            height: 100%;
         }
     </style>
 </head>

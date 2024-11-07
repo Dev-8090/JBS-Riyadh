@@ -16,10 +16,9 @@
         }
 
         img {
-            max-width: 100%;
+            max-width: auto;
             height: 100%;
-            object-position: center;
-            object-fit: contain;
+            
         }
     </style>
 </head>
